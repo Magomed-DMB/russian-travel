@@ -1,0 +1,27 @@
+.cover__link {
+  display: block;
+  text-decoration: none;
+  padding: 245px 312px;
+  background: #2A2C2F;
+  opacity: 0.3;
+}
+.cover__link:hover {
+  background: #2A2C2F;
+  opacity: 0.8;
+  padding: 245px 312px;
+}
+@media (max-width: 1024px) {
+  .cover__link {
+    padding: 195px 232px;
+  }
+}
+@media (max-width: 768px) {
+  .cover__link {
+    padding: 115px 104px;
+  }
+}
+@media (max-width: 320px) {
+  .cover__link {
+    padding: 16px 33px;
+  }
+}
