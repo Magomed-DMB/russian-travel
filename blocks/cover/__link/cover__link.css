@@ -10,18 +10,27 @@
   opacity: 0.8;
   padding: 245px 312px;
 }
-@media (max-width: 1024px) {
+@media (max-width: 1279px) {
   .cover__link {
     padding: 195px 232px;
   }
+  .cover__link:hover {
+    padding: 195px 232px;
+  }
 }
-@media (max-width: 768px) {
+@media (max-width: 1023px) {
   .cover__link {
     padding: 115px 104px;
   }
+  .cover__link:hover {
+    padding: 115px 104px;
+  }
 }
-@media (max-width: 320px) {
+@media (max-width: 767px) {
   .cover__link {
-    padding: 16px 33px;
+    padding: 33px 16px;
+  }
+  .cover__link:hover {
+    padding: 33px 16px;
   }
 }

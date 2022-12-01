@@ -1,6 +1,5 @@
-.cover__overlay{
+.cover__overlay {
   background-image: url(../../../images/cover/__background.png);
   background-position: center center;
   background-size: cover;
 }
-

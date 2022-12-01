@@ -9,8 +9,3 @@
   color: #FFFFFF;
   list-style: none;
 }
-@media (max-width: 320px) {
-  .intro__list {
-    width: 288px;
-  }
-}
