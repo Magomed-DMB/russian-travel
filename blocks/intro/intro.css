@@ -12,6 +12,7 @@
 @media (max-width: 1023px) {
   .intro {
     margin:0 24px 92px;
+    max-width: 720px;
   }
 }
 @media (max-width: 767px) {

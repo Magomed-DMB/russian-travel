@@ -1,8 +1,8 @@
 .header__lang-link {
   text-decoration: none;
   padding-right: 18px;
-  color: white;
-  font-family: 'Inter';
+  color: #FFFFFF;
+  font-family: 'Inter', Arial, sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
@@ -10,6 +10,9 @@
 }
 .header__lang-link:last-of-type {
   padding-right: 0;
+}
+.header__lang-link:hover {
+  text-decoration-line: underline;
 }
 @media (max-width: 767px) {
   .header__lang-link {

@@ -2,12 +2,10 @@
   display: block;
   text-decoration: none;
   padding: 245px 312px;
-  background: #2A2C2F;
-  opacity: 0.3;
+  background: rgba(42,44,47,0.3);
 }
 .cover__link:hover {
-  background: #2A2C2F;
-  opacity: 0.8;
+  background: rgba(42,44,47,0.8);
   padding: 245px 312px;
 }
 @media (max-width: 1279px) {
