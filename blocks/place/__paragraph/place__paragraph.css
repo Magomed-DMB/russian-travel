@@ -17,9 +17,9 @@
 }
 @media (max-width: 767px) {
   .place__paragraph {
-    margin: 32px 16px 25px;
+    margin: 32px 16px 0;
   }
   .place__paragraph:last-of-type{
-    margin: 0 16px;
+    margin: 25px 16px 0;
   }
 }
